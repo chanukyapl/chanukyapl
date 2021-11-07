@@ -22,11 +22,11 @@ Hope you liked my profile. I am enthusiastic learner. Looking for streak of chal
 ## Favourite tools
 
 ## Programming languages
-| Language | Proficiency| rating |
+| Language | Proficiency| Rating |
 | :---      | :-----: | :-----:|
-|Java |Intermediate | (3 out of 5)(⭐⭐⭐  ) |
-|JavaScript |Expert | (3 out of 5)(⭐⭐⭐  ) |
-|Kotlin | Beginner | (4 out of 5)(⭐⭐⭐⭐  ) |
+|<details><summary>Java</summary><div> 1. spring boot <br> 2. Android development</div></details> |Intermediate | (3 out of 5)(⭐⭐⭐  ) |
+|<details><summary>JavaScript</summary><div> 1. [Front end](#frontend)<br> 2. [Back end](#backend)</div></details> |Expert | (1 out of 5)(⭐  ) |
+|<details><summary>Kotlin</summary><div> 1. Android development</div></details>| Beginner | (4 out of 5)(⭐⭐⭐⭐  ) |
 |Python | Beginner | (4 out of 5)(⭐⭐⭐⭐  ) |
 
 
@@ -50,11 +50,11 @@ ReactNative<br>
 ## BaaS
 Firebase
 
-## Backend frameworks
+## Backend frameworks <a id="backend"></a>
 Spring Boot<br>
 NodeJs(Express)
 
-## Frontend Frameworks
+## Frontend Frameworks <a id="frontend"></a>
 jQuery<br>
 React<br>
 React Native<br>
