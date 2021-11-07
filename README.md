@@ -1,5 +1,5 @@
-<center> I am Polaki Chanukya</center>
-===============================
+# <center> I am Polaki Chanukya</center>
+
 
  + I am a  full stack web developer 
  + Enthusiast in learning new things
