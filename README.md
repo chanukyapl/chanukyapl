@@ -6,31 +6,28 @@
     <div align="right" width="50%">
         <div align="left" width="50%">
 
- #### 🔥 I am a  full stack web developer 
- #### 📘 Enthusiast in learning new things
- #### 📖 currently learning MERN stack
- #### 📊 Good idea of Native Android development
- #### 🛡️ Interested in Cyber Security
- #### 🛡️ Interested in Cyber Security
- #### 🛡️ Interested in Cyber Security
- #### 🛡️ Interested in Cyber Security
+ #### 👉🔥 Full stack web developer 
+ #### 👉📘 Enthusiast in learning new things
+ #### 👉📖 currently learning MERN stack
+ #### 👉📊 Good idea on Native Android development
+ #### 👉🛡️ Interested in Cyber Security
  </div>
  </div>
  </div>
-<br>
 <h1 align="center"> About Me</h1> 
 
 Hello there! 🙋‍♂️ <br>
-Hope you liked my profile. I am enthusiast learner. Looking for streak of challenges. <br>
+Hope you liked my profile. I am enthusiastic learner. Looking for streak of challenges. <br>
 
 ## Favourite tools
 
 ## Programming languages
-
-Java Intermediate(3 out of 5)<br>
-JavaScript expert(3 out of 5)<br>
-Kotlin Begginner(4 out of 5)<br>
-Python Begginner(4 out of 5)<br>
+| Language | Proficiency| rating |
+| :---      | :-----: | :-----:|
+|Java |Intermediate | (3 out of 5)(⭐⭐⭐  ) |
+|JavaScript |expert | (3 out of 5)(⭐⭐⭐  ) |
+|Kotlin | Begginner | (4 out of 5)(⭐⭐⭐⭐  ) |
+|Python | Begginner | (4 out of 5)(⭐⭐⭐⭐  ) |
 
 
 ## coding 
@@ -67,3 +64,5 @@ Chrome extension<br>
 Chrome theme<br>
 portfolio website
 
+## Deployment
+Docker
