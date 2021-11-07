@@ -11,9 +11,6 @@
  #### 📖 currently learning MERN stack
  #### 📊 Good idea of Native Android development
  #### 🛡️ Interested in Cyber Security
- #### 🛡️ Interested in Cyber Security
- #### 🛡️ Interested in Cyber Security
- #### 🛡️ Interested in Cyber Security
  </div>
  </div>
  </div>
