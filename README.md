@@ -6,11 +6,11 @@
     <div align="right" width="50%">
         <div align="left" width="50%">
 
- #### 👉🔥 Full stack web developer 
- #### 👉📘 Enthusiast in learning new things
- #### 👉📖 currently learning MERN stack
- #### 👉📊 Good idea on Native Android development
- #### 👉🛡️ Interested in Cyber Security
+ #### 👉 🔥 Full stack web developer 
+ #### 👉 📘 Enthusiast in learning new things
+ #### 👉 📖 currently learning MERN stack
+ #### 👉 📊 Good idea on Native Android development
+ #### 👉 🛡️ Interested in Cyber Security
  </div>
  </div>
  </div>
@@ -25,9 +25,9 @@ Hope you liked my profile. I am enthusiastic learner. Looking for streak of chal
 | Language | Proficiency| rating |
 | :---      | :-----: | :-----:|
 |Java |Intermediate | (3 out of 5)(⭐⭐⭐  ) |
-|JavaScript |expert | (3 out of 5)(⭐⭐⭐  ) |
-|Kotlin | Begginner | (4 out of 5)(⭐⭐⭐⭐  ) |
-|Python | Begginner | (4 out of 5)(⭐⭐⭐⭐  ) |
+|JavaScript |Expert | (3 out of 5)(⭐⭐⭐  ) |
+|Kotlin | Beginner | (4 out of 5)(⭐⭐⭐⭐  ) |
+|Python | Beginner | (4 out of 5)(⭐⭐⭐⭐  ) |
 
 
 ## coding 
