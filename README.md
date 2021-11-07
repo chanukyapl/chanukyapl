@@ -27,6 +27,7 @@
 |<details><summary>Kotlin</summary><div> 1. Android development</div></details>| Beginner🎖️ | (4 out of 5)(❤️❤️❤️❤️🤍  ) |
 |Python | Beginner🎖️ | (4 out of 5)(❤️❤️❤️❤️🤍 ) |
 </div>
+
 ## Markup Languages 
 
 HTML<br>
