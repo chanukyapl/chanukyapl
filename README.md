@@ -36,6 +36,7 @@ Markdown<br>
 
 ## Scripting
 Bash<br>
+Batch
 
 ## tools
 NPM<br>
