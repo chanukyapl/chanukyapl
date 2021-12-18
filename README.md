@@ -15,6 +15,7 @@
  </div>
  </div>
 
+<h1 align="center"> Skills</h1> 
 
 ## Programming languages
 
@@ -23,23 +24,21 @@
 | Language | Proficiency| Rating |
 | :---      | :-----: | :-----:|
 |<details><summary>Java</summary><div> 1. spring boot <br> 2. Android development</div></details> |Intermediate🥇 | (3 out of 5)(❤️❤️❤️🤍🤍 ) |
-|<details><summary>[JavaScript](#jslib)</summary><div> 1. [Back end](#backend)<br> 2. [Front end](#frontend)</div></details> |Expert🏆 | (1 out of 5)(❤️🤍🤍🤍🤍 ) |
+|<details><summary>[JavaScript](#jslib)</summary><div> 1. [Back end](#backend)<br> 2. [Front end](#frontend)</div></details> |Expert🏆 | (5 out of 5)(❤️❤️❤️❤️❤️ ) |
 |<details><summary>Kotlin</summary><div> 1. Android development</div></details>| Beginner🎖️ | (4 out of 5)(❤️❤️❤️❤️🤍  ) |
 |Python | Beginner🎖️ | (4 out of 5)(❤️❤️❤️❤️🤍 ) |
 </div>
 
 ## Markup Languages 
 
-HTML<br>
-CSS<br>
-Markdown<br>
+ + HTML
+ + CSS
+ + Markdown
 
 ## Scripting
-Bash<br>
-Batch
 
-## tools
-NPM<br>
+ + Bash
+ + Batch
 
 ## JavaScript Libraries <a id="jslib"></a>
 1. jQuery
