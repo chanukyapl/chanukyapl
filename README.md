@@ -22,7 +22,7 @@
 
 | Language | Proficiency| Rating |
 | :---      | :-----: | :-----:|
-|<details><summary>Java</summary><div> 1. spring boot <br> 2. Android development <br> 3. Spring Batch </div></details> |Intermediate🥇 | (3 out of 5)(❤️❤️❤️🤍🤍 ) |
+|<details><summary>Java</summary><div> 1. spring boot <br> 2. Android development</div></details> |Intermediate🥇 | (3 out of 5)(❤️❤️❤️🤍🤍 ) |
 |<details><summary>[JavaScript](#jslib)</summary><div> 1. [Back end](#backend)<br> 2. [Front end](#frontend)</div></details> |Expert🏆 | (1 out of 5)(❤️🤍🤍🤍🤍 ) |
 |<details><summary>Kotlin</summary><div> 1. Android development</div></details>| Beginner🎖️ | (4 out of 5)(❤️❤️❤️❤️🤍  ) |
 |Python | Beginner🎖️ | (4 out of 5)(❤️❤️❤️❤️🤍 ) |
@@ -70,6 +70,19 @@ portfolio website
 
 <h1 align="center"> About Me</h1> 
 
+```
+   ,;:~=
+  ,.~=*==.        
+  ..::;-~.        Reading
+  ,..,~.,
+   ,..,-.         Coding
+  ,-:-- ..
+ ;***!!;:::       Eating
+ !!==:~;*!:
+ $=*!*=!!$=       Sleeping
+ $$*=$*=$##
+
+```
 Hello there! 🙋‍♂️ <br>
 Hope you liked my profile. I am an enthusiastic learner. Looking for streak of challenges. <br>
 **If you have liked my profile, don't hesitate to give a Star⭐ to [My profile](https://github.com/chanukyapl/chanukyapl)**
