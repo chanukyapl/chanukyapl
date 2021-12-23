@@ -69,13 +69,13 @@ portfolio website
 
 <h1 align="center"> About Me</h1> 
 
-```md
-   ,;:~=
-  ,.~=*==.        
-  ..::;-~.        Reading
-  ,..,~.,
+```txt
+   ,;:~=,.
+  .,.~=*==.        
+ ::::::::::        Reading
+  ,..,~.=..
    ,..,-.         Coding
-  ,-:-- ..
+  ,-:---..
  ;***!!;:::       Eating
  !!==:~;*!:
  $=*!*=!!$=       Sleeping
