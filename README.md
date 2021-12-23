@@ -72,10 +72,10 @@ portfolio website
 ```txt
    ,;:~=,.
   .,.~=*==.        
- ::::::::::        Reading
+ ::::::::::       Reading
   ,..,~.=..
-   ,..,-.         Coding
-  ,-:---..
+   ,..,.~         Coding
+  ,-:---~.
  ;***!!;:::       Eating
  !!==:~;*!:
  $=*!*=!!$=       Sleeping
