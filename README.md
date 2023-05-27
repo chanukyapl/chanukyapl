@@ -1,7 +1,7 @@
 <h1 align="center"> I am Polaki Chanukya</h1> 
 <div height="500px">
     <div align="left" width="50%">
-        <img align="left"  src=".\20230326_193156.jpg" height="200px" alt="chanukya looking cool">
+        <img align="left"  src=".\MG20230507061121.jpg" height="200px" alt="chanukya looking cool">
     </div>
     <div align="right" width="50%">
         <div align="left" width="50%">
