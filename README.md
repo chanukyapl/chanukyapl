@@ -23,7 +23,7 @@
 
 | Language | Proficiency| Rating |
 | :---      | :-----: | :-----:|
-|<details><summary>Java</summary><div> 1. spring boot <br> 2. Android development</div></details> |Intermediate🥇 | (3 out of 5)(❤️❤️❤️🤍🤍 ) |
+|<details><summary>Java</summary><div> 1. spring boot <br> 2. Android development</div></details> |Intermediate🥇 | (3 out of 5)(❤️❤️❤️❤️🤍 ) |
 |<details><summary>[JavaScript](#jslib)</summary><div> 1. [Back end](#backend)<br> 2. [Front end](#frontend)</div></details> |Expert🏆 | (5 out of 5)(❤️❤️❤️❤️❤️ ) |
 |<details><summary>Kotlin</summary><div> 1. Android development</div></details>| Beginner🎖️ | (4 out of 5)(❤️❤️❤️❤️🤍  ) |
 |Python | Beginner🎖️ | (4 out of 5)(❤️❤️❤️❤️🤍 ) |
