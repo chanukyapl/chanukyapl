@@ -1,87 +1,136 @@
-<h1 align="center"> I am Polaki Chanukya</h1> 
-<div height="500px">
-    <div align="left" width="50%">
-        <img align="left"  src=".\IMG20230507061121.jpg" height="200px" alt="chanukya looking cool">
-    </div>
-    <div align="right" width="50%">
-        <div align="left" width="50%">
+# Hi, I'm Polaki Chanukya 👋
 
- #### 👉 🔥 Full stack web developer 
- #### 👉 📘 Enthusiast in learning new things
- #### 👉 📖 currently learning MERN stack
- #### 👉 📊 Good idea on Native Android development
- #### 👉 🛡️ Interested in Cyber Security
- </div>
- </div>
- </div>
+## Senior Java Backend Engineer
 
-<h1 align="center"> Skills</h1> 
+Backend Engineer with 5.7+ years of experience designing, developing, and supporting enterprise-grade applications across Supply Chain, Compliance, and Cloud-based platforms.
 
-## Programming languages
+Experienced in building scalable REST APIs, microservices, batch processing systems, cloud-native applications, and enterprise integrations using Java and Spring ecosystem technologies.
 
-<div align="center">
+---
 
-| Language | Proficiency| Rating |
-| :---      | :-----: | :-----:|
-|<details><summary>Java</summary><div> 1. spring boot <br> 2. Android development</div></details> |Intermediate🥇 | (3 out of 5)(❤️❤️❤️❤️🤍 ) |
-|<details><summary>[JavaScript](#jslib)</summary><div> 1. [Back end](#backend)<br> 2. [Front end](#frontend)</div></details> |Expert🏆 | (5 out of 5)(❤️❤️❤️❤️❤️ ) |
-|<details><summary>Kotlin</summary><div> 1. Android development</div></details>| Beginner🎖️ | (4 out of 5)(❤️❤️❤️❤️🤍  ) |
-|Python | Beginner🎖️ | (4 out of 5)(❤️❤️❤️❤️🤍 ) |
-</div>
+## Core Expertise
 
-## Markup Languages 
+### Backend Development
 
- + HTML
- + CSS
- + Markdown
+* Java 8 / 11 / 17 / 21
+* Spring Boot
+* Spring MVC
+* Spring Data JPA
+* Hibernate
+* REST APIs
+* Microservices
 
-## Scripting
+### Data & Persistence
 
- + Bash
- + Batch
+* PostgreSQL
+* MySQL
+* SQL Server
+* Oracle
+* Query Optimization
+* Indexing Strategies
+* Transaction Management
 
-## JavaScript Libraries <a id="jslib"></a>
-1. jQuery
-2. NodeJs
-3. Express
-4. React
-5. ReactNative
+### Batch Processing & Integration
 
-## Backend frameworks <a id="backend"></a>
-1. Spring Boot
-2. NodeJs(Express)
+* Spring Batch
+* IBM MQ
+* Event-Driven Processing
+* File-Based Data Pipelines
+* Scheduled Jobs
+* Data Transformation Workflows
 
-## Frontend Frameworks <a id="frontend"></a>
-1. jQuery
-2. React
-3. React Native
+### Cloud Platforms
 
-## BaaS
-1. Firebase
+#### AWS
 
-## Deployment
-1. Docker
+* Lambda
+* S3
+* Aurora
+* Elastic Beanstalk
+* SNS
+* CloudWatch
 
-## Recent works
-Chrome extension<br>
-Chrome theme<br>
-portfolio website
+#### Azure
 
-<h1 align="center"> About Me</h1> 
+* Azure SQL
+* Logic Apps
+* App Services
+* WebJobs
 
-```txt
-   ,;:~=,.
-  .,.~=*==.        
- ::::::::::       Reading
-  ,..,~.=..
-   ,..,.~         Coding
-  ,-:---~.
- ;***!!;:::       Eating
- !!==:~;*!:
- $=*!*=!!$=       Sleeping
- $$*=$*=$##
+### DevOps & Tooling
 
-```
-Hello there! 🙋‍♂️ <br>
-Hope you liked my profile. I am an enthusiastic learner. Looking for streak of challenges. <br>
-**If you have liked my profile, don't hesitate to give a Star⭐ to [My profile](https://github.com/chanukyapl/chanukyapl)**
+* Git
+* GitHub Actions
+* Docker
+* Maven
+* Linux
+* CI/CD Pipelines
+
+---
+
+## Engineering Interests
+
+* Distributed Systems
+* Event-Driven Architecture
+* JVM Internals
+* Database Internals
+* System Design
+* Cloud-Native Applications
+* Performance Optimization
+* Scalability Engineering
+
+---
+
+## Professional Highlights
+
+### Supply Chain Platform
+
+* Developed enterprise applications supporting automotive supply chain operations.
+* Built REST APIs and backend services used by multiple downstream systems.
+* Designed and optimized database structures and business workflows.
+* Developed batch processing solutions for supplier, inventory, and payment-related operations.
+
+### Cloud Compliance Platform
+
+* Developed backend services for compliance reporting and regulatory workflows.
+* Worked with AWS services including Lambda, S3, Aurora, SNS, CloudWatch, and Elastic Beanstalk.
+* Implemented large-volume data ingestion and transformation pipelines.
+* Investigated and resolved production incidents involving authentication, authorization, and performance bottlenecks.
+
+### API Modernization
+
+* Migrated legacy SOAP-based integrations to modern RESTful services.
+* Improved maintainability, observability, and scalability of existing systems.
+
+---
+
+## Current Focus Areas
+
+* Advanced JVM Internals
+* Distributed System Design
+* Kafka and Messaging Patterns
+* Database Internals
+* Cloud Architecture
+* High-Performance Java Applications
+
+---
+
+## Featured Repositories
+
+* Event-Driven Backend Systems
+* Cloud-Native Applications
+* System Design Experiments
+* JVM and Performance Labs
+* Developer Productivity Tools
+
+---
+
+## Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/chanukya-polaki
+* Medium: https://chanukyapl.medium.com
+* Portfolio: https://chanukyapl.github.io
+
+---
+
+> “Building reliable systems is not just about writing code. It's about designing software that continues to work under scale, failures, and change.”
